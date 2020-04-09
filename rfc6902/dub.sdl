@@ -1,0 +1,2 @@
+name "6902"
+dependency "json-patch" version="*"

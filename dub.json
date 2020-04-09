@@ -1,0 +1,28 @@
+{
+	"name": "rfc",
+	"description": "Meta package to import implementations of RFC specifications - see README",
+	"license": "various",
+	"targetType": "none",
+	"subPackages": [
+		"rfc1867",
+		"rfc1950",
+		"rfc1951",
+		"rfc1952",
+		"rfc2069",
+		"rfc2373",
+		"rfc3629",
+		"rfc4122",
+		"rfc4506",
+		"rfc4648",
+		"rfc5321",
+		"rfc5322",
+		"rfc5424",
+		"rfc6265",
+		"rfc6455",
+		"rfc6901",
+		"rfc6902",
+		"rfc7232",
+		"rfc7519",
+		"rfc7797"
+	]
+}

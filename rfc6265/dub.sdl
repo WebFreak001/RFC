@@ -1,0 +1,2 @@
+name "6265"
+dependency "vibe-d:http" version="*"

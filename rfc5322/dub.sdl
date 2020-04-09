@@ -1,0 +1,2 @@
+name "5322"
+dependency "vibe-d:inet" version="*"

@@ -1,0 +1,2 @@
+name "7797"
+dependency "itsdangerous" version="*"
